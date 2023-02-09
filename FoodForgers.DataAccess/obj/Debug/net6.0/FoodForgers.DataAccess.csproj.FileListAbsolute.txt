@@ -1,0 +1,17 @@
+C:\Users\kinga\source\FoodForgers.DataAccess\bin\Debug\net6.0\FoodForgers.DataAccess.deps.json
+C:\Users\kinga\source\FoodForgers.DataAccess\bin\Debug\net6.0\FoodForgers.DataAccess.runtimeconfig.json
+C:\Users\kinga\source\FoodForgers.DataAccess\bin\Debug\net6.0\FoodForgers.DataAccess.dll
+C:\Users\kinga\source\FoodForgers.DataAccess\bin\Debug\net6.0\FoodForgers.DataAccess.pdb
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.AssemblyInfo.cs
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.dll
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\refint\FoodForgers.DataAccess.dll
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.pdb
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.genruntimeconfig.cache
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\ref\FoodForgers.DataAccess.dll
+C:\Users\kinga\source\FoodForgers.DataAccess\bin\Debug\net6.0\FoodForgers.Model.dll
+C:\Users\kinga\source\FoodForgers.DataAccess\bin\Debug\net6.0\FoodForgers.Model.pdb
+C:\Users\kinga\source\FoodForgers.DataAccess\obj\Debug\net6.0\FoodForgers.DataAccess.csproj.CopyComplete
