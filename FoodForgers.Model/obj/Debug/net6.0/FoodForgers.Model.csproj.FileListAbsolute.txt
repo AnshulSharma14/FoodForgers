@@ -12,3 +12,17 @@ C:\Users\kinga\source\FoodForgers.Model\obj\Debug\net6.0\refint\FoodForgers.Mode
 C:\Users\kinga\source\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.pdb
 C:\Users\kinga\source\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.genruntimeconfig.cache
 C:\Users\kinga\source\FoodForgers.Model\obj\Debug\net6.0\ref\FoodForgers.Model.dll
+D:\GitHub\FoodForgers\FoodForgers.Model\bin\Debug\net6.0\FoodForgers.Model.deps.json
+D:\GitHub\FoodForgers\FoodForgers.Model\bin\Debug\net6.0\FoodForgers.Model.runtimeconfig.json
+D:\GitHub\FoodForgers\FoodForgers.Model\bin\Debug\net6.0\FoodForgers.Model.dll
+D:\GitHub\FoodForgers\FoodForgers.Model\bin\Debug\net6.0\FoodForgers.Model.pdb
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.csproj.AssemblyReference.cache
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.AssemblyInfoInputs.cache
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.AssemblyInfo.cs
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.csproj.CoreCompileInputs.cache
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.dll
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\refint\FoodForgers.Model.dll
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.pdb
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\FoodForgers.Model.genruntimeconfig.cache
+D:\GitHub\FoodForgers\FoodForgers.Model\obj\Debug\net6.0\ref\FoodForgers.Model.dll
